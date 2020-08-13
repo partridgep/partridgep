@@ -1,17 +1,4 @@
-<div style=
-"background: #FFEA80;
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-overflow-x: scroll"
->
-	<h1 align="center"
-	style="color: #FFFFD9; 
-	font-size: 7vw;
-	text-shadow: 1px 1px 1px #FF6138,2px 2px 1px #FF6138,3px 3px 1px #FF6138,4px 4px 1px rgba(100,100,100,.1), 5px 5px 1px #FF6138
-	">Paul Partridge</h1>
-</div>
+![header](https://i.imgur.com/KIUzbhR.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partridgep" alt="partridgep" /> </p>
 
 - 🔭&nbsp; I’m currently working on **a new portfolio.**
