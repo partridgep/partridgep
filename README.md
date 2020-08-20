@@ -1,5 +1,5 @@
 ![header](https://i.imgur.com/KIUzbhR.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=partridgep" alt="partridgep" /> </p>
+
 
 - 🔭&nbsp; I’m currently working on **a new portfolio.**
 
