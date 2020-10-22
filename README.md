@@ -1,8 +1,5 @@
 ![header](https://i.imgur.com/KIUzbhR.gif)
 
-
-- 🔭&nbsp; I’m currently working on **a new portfolio.**
-
 - 📫&nbsp; How to reach me: **[paul.partridg@gmail.com](mailto:paul.partridg@gmail.com)**
 
 - ⚡&nbsp; Fun fact: You can follow my corgi on Instagram **[@worldofmeatball](https://www.instagram.com/worldofmeatball/)**.
